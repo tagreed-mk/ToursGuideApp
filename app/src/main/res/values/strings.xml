@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ToursGuideApp</string>
+    <string name="strOverView">LONDON OVERVIEW \n In this Tour Guide App will take a tour in LONDON city.  </string>
+    <string name="parkOneName">Hyde Park</string>
+    <string name="parkOneInfo">Major Parks in Central London , UK</string>
+    <string name="parkTwoName">ST James Park</string>
+    <string name="parkTwoInfo">London SW1A 2BJ, UK</string>
+    <string name="parkThreeName">Regent Park</string>
+    <string name="parkThreeInfo">Chester Rd, London E3 5TB, UK</string>
+    <string name="parkFourName">Victoria Park</string>
+    <string name="parkFourInfo">Grove Rd, London E3 5TB, UK</string>
+    <string name="parkFiveName">Holand Park</string>
+    <string name="parkFiveInfo">Ilchester P1, Kensindton, London W8 6LU, UK</string>
+    <string name="museumOneName">Victoria and Albert</string>
+    <string name="museumOneInfo">Cromwell Rd, Knightsbridg, London SW7 2RL, UK</string>
+    <string name="museumTwoName">Madam Tussauds</string>
+    <string name="museumTowInfo">Is a wax museum Marylrbone Rd, London NW1 5LR, UK</string>
+    <string name="museumThreeName">Ripley Believe It or Not</string>
+    <string name="museumThreeInfo">London Pavillion, Piccadily Circus, London W1J 0DA, UK </string>
+    <string name="musemFourName">Natural History</string>
+    <string name="musemFourInfo">Cromwell Rd, Kensington, London SW7 5BD, UK</string>
+    <string name="familyOneName">London Eye</string>
+    <string name="familyOneInfo">Is a gaint Ferris wheel on the River Thames in London</string>
+    <string name="familyTwoName">Shrek Adventure</string>
+    <string name="familyTwoInfo">Family attraction based on the film sherk with 4D movie</string>
+    <string name="familyThreeName">London Zoo</string>
+    <string name="familyThreeInfo">Is the world oldest scientific</string>
+    <string name="shoppingOneName">Oxford Stret</string>
+    <string name="shoppingOneInfo">Major Rode contains a lot of shopping stores</string>
+    <string name="shoppingTwoName">Harrods</string>
+    <string name="shoppingTwoInfo">Luxury store located on Brompton Road in Knightsbridg</string>
+    <string name="shoppingThreeName">Bicester Village</string>
+    <string name="shoppingThreeInfo">Outlet Village leading fasion brands</string>
+</resources>
